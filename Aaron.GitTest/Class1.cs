@@ -7,5 +7,6 @@ namespace Aaron.GitTest
 {
     public class Class1
     {
+        //测试在本地更改
     }
 }
