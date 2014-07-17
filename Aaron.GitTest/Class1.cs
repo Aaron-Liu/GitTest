@@ -11,5 +11,6 @@ namespace Aaron.GitTest
         //测试在github编辑器中更改
         //从github clone出来在本地测试修改
         //测试在fork项目之后修改
+        //测试在本地修改后，fork该项目的github用户收到更新的流程
     }
 }
