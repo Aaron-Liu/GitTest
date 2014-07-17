@@ -9,5 +9,6 @@ namespace Aaron.GitTest
     {
         //测试在本地更改
         //测试在github编辑器中更改
+        //从github clone出来在本地测试修改
     }
 }
